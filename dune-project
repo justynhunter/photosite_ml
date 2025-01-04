@@ -6,9 +6,9 @@
 
 (license "MIT")
 
-(maintainers <your_name>)
+(maintainers Justyn Hunter)
 
-(authors <your_name>)
+(authors Justyn Hunter)
 
 (homepage https://github.com/your/project)
 
@@ -17,5 +17,5 @@
 (package
  (allow_empty)
  (name melange-opam-template)
- (synopsis "Melange project")
- (description "Minimal melange project"))
+ (synopsis "Photosite in Reason/Ocaml")
+ (description "Photography Website"))
